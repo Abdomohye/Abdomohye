@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Abdomohye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...*
+#in cloude<studio.h>
+int main (){
+   printf("hello,world");
+}
